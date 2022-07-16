@@ -1,9 +1,0 @@
-!.gitingnore
-merge
-!fetch
-conflict
-!fork/pull request
-!remote-tracking-branch
-!stash
-!rebase
-!revert
